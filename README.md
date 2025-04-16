@@ -3,7 +3,7 @@
 🎓 J'étudie le **développement web** et la **cybersécurité**, et je m'intéresse aux **languages de bas niveau** pendant mon temps libre.  
 🤝 Ouvert à des collaborations sur des projets intéressants.  
 
-📧 Contact : **igov@outlook.fr**  
+📧 Contact : **gibril.khelk@outlook.com**  
 🔗 N'hésite pas à consulter mes projets ci-dessous et à me faire part de tes retours !
 
 ---
